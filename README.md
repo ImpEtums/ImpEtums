@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yang Qian</h1>
+<h1 align="center">Hi 👋, I'm Yang</h1>
 <h3 align="center">Currently a student in software_engineering@hznu.edu.cn</h3>
 
 - 🌱 I’m currently learning **parallel programming**
