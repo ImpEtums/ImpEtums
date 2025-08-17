@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **parallel programming**
 
-- 📫 How to reach me **definenx0204@gmail.com**
+- 📫 Contact me at **definenx0204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
