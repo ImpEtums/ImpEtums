@@ -15,4 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=impetums&show_icons=true&locale=en&layout=compact" alt="impetums" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impetums&show_icons=true&locale=en" alt="impetums" /></p>
